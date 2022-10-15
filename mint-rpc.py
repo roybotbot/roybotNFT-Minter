@@ -48,7 +48,7 @@ with open(mint_data, 'r', encoding='ISO-8859-1') as file:
 		j+=1
 		
 		# TESTING: if you want to test and see if the proper JSON is created, uncomment the line below:
-		# print(data_dump) # But wait, there's more...
+		# print(data_json) # But wait, there's more...
 		
 		# !!!!!!!
 		# THEN comment out the rest of the lines below
