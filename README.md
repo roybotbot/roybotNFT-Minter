@@ -11,7 +11,7 @@ This script can be used to mint NFTs with multiple URIs. All the scripts I have 
 3. Generate the hashes for all the files. I just used a CLI command to generate them as a list in a txt file.
 4. Put all the URIs, hashes, and other info into the TEMPLATE csv file and rename it to `rpc_mint_data.csv`
 5. Test the script out first on testnet
-6. Run with `python mint-rpc.py`
+6. Run with `python mint-rpc.py rpc_mint_data.csv`
 
 If you have questions, ask me on [Twitter @roybotNFT](https://twitter.com/roybotNFT).
 
