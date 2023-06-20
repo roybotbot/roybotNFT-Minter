@@ -1,3 +1,5 @@
+Note: There is now a better way to mint many NFTs at once. Use the [Chia NFT Minting Tool](https://github.com/Chia-Network/chia-nft-minting-tool).
+
 # roybotNFT-Minter
 Chia NFT minting script using RPC and data from a CSV file.
 
